@@ -1,4 +1,4 @@
-# 0x10. ES6 classes
+# 0x02. ES6 classes
 
 ## Files:card_file_box:
 
